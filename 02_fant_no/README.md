@@ -24,4 +24,6 @@ sudo apt install sox
 sox spectrumCode.wav -n spectrogram
 ```
 
+![spectrogram](spectrogram.png)
+
 Svar: my-super-secret-password
